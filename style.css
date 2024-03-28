@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    /* margin: auto; */
+    /* width: 70%; */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    border-bottom: 3px solid rgba(0, 0, 0,0.7);
+    margin-bottom: 5px;
+    padding: 0 100px;
+}
+.data h2{
+    font-size: 30px;
+    margin: 20px 0px;
+}
+.data{
+    width: 30%;
+}
+.data p{
+    margin: 10px;
+    color: #666666;
+}
+
